@@ -51,3 +51,12 @@ Plik manifestu:
 Wynik:
 
 <img width="459" height="104" alt="image" src="https://github.com/user-attachments/assets/0a06a8d2-316e-4832-a7b3-27eae03412e4" />
+
+
+# TESTY
+## Dostep backendu do MySQL (udany)
+<img width="1482" height="160" alt="image" src="https://github.com/user-attachments/assets/56a255cd-6030-49bc-b603-5e89f7b571b4" />
+
+## Dostęp frontendu do MySQL (nieudany)
+<img width="1478" height="229" alt="image" src="https://github.com/user-attachments/assets/f5579222-ae4d-4da7-9681-68445bbb3cc5" />
+
